@@ -1,0 +1,6 @@
+@Many_To_Many_API_Demo_HostAddress = http://localhost:5218
+
+GET {{Many_To_Many_API_Demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
